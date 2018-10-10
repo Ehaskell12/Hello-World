@@ -23,7 +23,7 @@ Go to DevMountain Coding bootcamp
 
 finish 13 week cours April
 
-Phase 3 - starting in April
+Phase 3 - starting in April of 2019
 
 Start hunting of a full time IOS developer Job in Dallas TX.
 
