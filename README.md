@@ -1,6 +1,4 @@
-# Hello-World
-First Repository test
-
+# Plan
 
 I want to learn and become a IOS developer
 
